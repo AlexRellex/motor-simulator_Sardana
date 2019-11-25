@@ -1,0 +1,3 @@
+[console_scripts]
+motor_gui = tgconf_motor_gui:run
+

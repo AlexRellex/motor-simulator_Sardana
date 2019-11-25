@@ -1,0 +1,9 @@
+Project created by AppSettingsWizard on 2019-11-22T17:18:28.435219
+XML Config file created: "/home/aalonso/Projects/motor_ds/GUI/tgconf_motor_gui/config.xml"
+Python config file created: "/home/aalonso/Projects/motor_ds/GUI/tgconf_motor_gui/config.py"
+python init file created: "/home/aalonso/Projects/motor_ds/GUI/tgconf_motor_gui/__init__.py"
+Application project was successfully created.You can find the files in: "/home/aalonso/Projects/motor_ds/GUI"
+Tip: You can install it with:
+	pip install /home/aalonso/Projects/motor_ds/GUI
+Tip: And then run the application with:
+	 motor_gui

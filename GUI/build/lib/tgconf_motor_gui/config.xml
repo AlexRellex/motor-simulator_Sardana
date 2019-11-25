@@ -1,0 +1,9 @@
+<taurusgui_config>
+  <GUI_NAME>motor_gui</GUI_NAME>
+  <ORGANIZATION>ALBA</ORGANIZATION>
+  <CUSTOM_LOGO/>
+  <MACROSERVER_NAME>tango://pc325.cells.es:10000/MacroServer/test01/1</MACROSERVER_NAME>
+  <DOOR_NAME>tango://pc325.cells.es:10000/Door/test01/1</DOOR_NAME>
+  <INSTRUMENTS_FROM_POOL>True</INSTRUMENTS_FROM_POOL>
+  <MONITOR>tango://pc325.cells.es:10000/motor/motortest/2</MONITOR>
+</taurusgui_config>

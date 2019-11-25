@@ -1,0 +1,11 @@
+MANIFEST.in
+setup.py
+tgconf_motor_gui/__init__.py
+tgconf_motor_gui/config.py
+tgconf_motor_gui/config.xml
+tgconf_motor_gui.egg-info/PKG-INFO
+tgconf_motor_gui.egg-info/SOURCES.txt
+tgconf_motor_gui.egg-info/dependency_links.txt
+tgconf_motor_gui.egg-info/entry_points.txt
+tgconf_motor_gui.egg-info/requires.txt
+tgconf_motor_gui.egg-info/top_level.txt
